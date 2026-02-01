@@ -1,0 +1,952 @@
+{
+  "id_pedido": "pedido_1769637079539",
+  "fecha": "2026-02-01T12:09:02.783Z",
+  "muebles": [
+    {
+      "id_interno": "A",
+      "peso_total": 11.133095519999998,
+      "dimensiones_caja": [
+        573,
+        405,
+        101
+      ],
+      "piezas": [
+        {
+          "uid": "A1-1",
+          "largo": 568,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "A2-1",
+          "largo": 568,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "A3-1",
+          "largo": 400,
+          "ancho": 350,
+          "espesor": 16
+        },
+        {
+          "uid": "A4-1",
+          "largo": 400,
+          "ancho": 350,
+          "espesor": 16
+        },
+        {
+          "uid": "A5-1",
+          "largo": 568,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "A6-1",
+          "largo": 340,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "A7-1",
+          "largo": 340,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "A8-1",
+          "largo": 358,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "A9-1",
+          "largo": 358,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "A10-1",
+          "largo": 380,
+          "ancho": 318,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "B",
+      "peso_total": 11.37242096,
+      "dimensiones_caja": [
+        605,
+        405,
+        117
+      ],
+      "piezas": [
+        {
+          "uid": "B1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "B2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "B3-1",
+          "largo": 600,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "B4-1",
+          "largo": 600,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "B5-1",
+          "largo": 568,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "B6-1",
+          "largo": 314,
+          "ancho": 296,
+          "espesor": 16
+        },
+        {
+          "uid": "B7-1",
+          "largo": 314,
+          "ancho": 296,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "C",
+      "peso_total": 5.98751592,
+      "dimensiones_caja": [
+        405,
+        323,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "C1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "C2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "C3-1",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "C4-1",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "C5-1",
+          "largo": 318,
+          "ancho": 268,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "D",
+      "peso_total": 9.45219792,
+      "dimensiones_caja": [
+        605,
+        405,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "D1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "D2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "D3-1",
+          "largo": 600,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "D4-1",
+          "largo": 600,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "D5-1",
+          "largo": 568,
+          "ancho": 318,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "E",
+      "peso_total": 6.94762744,
+      "dimensiones_caja": [
+        405,
+        323,
+        101
+      ],
+      "piezas": [
+        {
+          "uid": "E1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "E2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "E3-1",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "E4-1",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "E5-1",
+          "largo": 318,
+          "ancho": 268,
+          "espesor": 16
+        },
+        {
+          "uid": "E6-1",
+          "largo": 314,
+          "ancho": 296,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "F",
+      "peso_total": 12.112048960000001,
+      "dimensiones_caja": [
+        655,
+        405,
+        101
+      ],
+      "piezas": [
+        {
+          "uid": "F1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "F2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "F3-1",
+          "largo": 650,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "F4-1",
+          "largo": 650,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "F5-1",
+          "largo": 618,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "F6-1",
+          "largo": 321,
+          "ancho": 314,
+          "espesor": 16
+        },
+        {
+          "uid": "F7-1",
+          "largo": 321,
+          "ancho": 314,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "G",
+      "peso_total": 13.49432692,
+      "dimensiones_caja": [
+        955,
+        405,
+        69
+      ],
+      "piezas": [
+        {
+          "uid": "G1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "G2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "G3-1",
+          "largo": 950,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "G4-1",
+          "largo": 950,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "G5-1",
+          "largo": 918,
+          "ancho": 318,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "H",
+      "peso_total": 9.45219792,
+      "dimensiones_caja": [
+        605,
+        405,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "H1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "H2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "H3-1",
+          "largo": 600,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "H4-1",
+          "largo": 600,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "H5-1",
+          "largo": 568,
+          "ancho": 318,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "I",
+      "peso_total": 12.112048960000001,
+      "dimensiones_caja": [
+        655,
+        405,
+        101
+      ],
+      "piezas": [
+        {
+          "uid": "I1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "I2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "I3-1",
+          "largo": 650,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "I4-1",
+          "largo": 650,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "I5-1",
+          "largo": 618,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "I6-1",
+          "largo": 321,
+          "ancho": 314,
+          "espesor": 16
+        },
+        {
+          "uid": "I7-1",
+          "largo": 321,
+          "ancho": 314,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "J",
+      "peso_total": 9.89316496,
+      "dimensiones_caja": [
+        505,
+        405,
+        117
+      ],
+      "piezas": [
+        {
+          "uid": "J1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "J2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "J3-1",
+          "largo": 500,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "J4-1",
+          "largo": 500,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "J5-1",
+          "largo": 468,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "J6-1",
+          "largo": 314,
+          "ancho": 246,
+          "espesor": 16
+        },
+        {
+          "uid": "J7-1",
+          "largo": 314,
+          "ancho": 246,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "K",
+      "peso_total": 10.60709192,
+      "dimensiones_caja": [
+        705,
+        405,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "K1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "K2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "K3-1",
+          "largo": 700,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "K4-1",
+          "largo": 700,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "K5-1",
+          "largo": 668,
+          "ancho": 318,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "L",
+      "peso_total": 6.94762744,
+      "dimensiones_caja": [
+        405,
+        323,
+        101
+      ],
+      "piezas": [
+        {
+          "uid": "L1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "L2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "L3-1",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "L4-1",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "L5-1",
+          "largo": 318,
+          "ancho": 268,
+          "espesor": 16
+        },
+        {
+          "uid": "L6-1",
+          "largo": 314,
+          "ancho": 296,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "M",
+      "peso_total": 5.98751592,
+      "dimensiones_caja": [
+        405,
+        323,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "M1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "M2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "M3-1",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "M4-1",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "M5-1",
+          "largo": 318,
+          "ancho": 268,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "N",
+      "peso_total": 5.98751592,
+      "dimensiones_caja": [
+        405,
+        323,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "N1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "N2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "N3-1",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "N4-1",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "N5-1",
+          "largo": 318,
+          "ancho": 268,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "O",
+      "peso_total": 9.89316496,
+      "dimensiones_caja": [
+        505,
+        405,
+        117
+      ],
+      "piezas": [
+        {
+          "uid": "O1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "O2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "O3-1",
+          "largo": 500,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "O4-1",
+          "largo": 500,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "O5-1",
+          "largo": 468,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "O6-1",
+          "largo": 314,
+          "ancho": 246,
+          "espesor": 16
+        },
+        {
+          "uid": "O7-1",
+          "largo": 314,
+          "ancho": 246,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "P",
+      "peso_total": 10.60709192,
+      "dimensiones_caja": [
+        705,
+        405,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "P1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "P2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "P3-1",
+          "largo": 700,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "P4-1",
+          "largo": 700,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "P5-1",
+          "largo": 668,
+          "ancho": 318,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "Q",
+      "peso_total": 8.297303920000001,
+      "dimensiones_caja": [
+        505,
+        405,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "Q1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "Q2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "Q3-1",
+          "largo": 500,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "Q4-1",
+          "largo": 500,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "Q5-1",
+          "largo": 468,
+          "ancho": 318,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "R",
+      "peso_total": 12.85167696,
+      "dimensiones_caja": [
+        705,
+        405,
+        101
+      ],
+      "piezas": [
+        {
+          "uid": "R1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "R2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "R3-1",
+          "largo": 700,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "R4-1",
+          "largo": 700,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "R5-1",
+          "largo": 668,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "R6-1",
+          "largo": 346,
+          "ancho": 314,
+          "espesor": 16
+        },
+        {
+          "uid": "R7-1",
+          "largo": 346,
+          "ancho": 314,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "S",
+      "peso_total": 5.98751592,
+      "dimensiones_caja": [
+        405,
+        323,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "S1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "S2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "S3-1",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "S4-1",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "S5-1",
+          "largo": 318,
+          "ancho": 268,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "T",
+      "peso_total": 12.85167696,
+      "dimensiones_caja": [
+        705,
+        405,
+        101
+      ],
+      "piezas": [
+        {
+          "uid": "T1-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "T2-1",
+          "largo": 400,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "T3-1",
+          "largo": 700,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "T4-1",
+          "largo": 700,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "T5-1",
+          "largo": 668,
+          "ancho": 318,
+          "espesor": 16
+        },
+        {
+          "uid": "T6-1",
+          "largo": 346,
+          "ancho": 314,
+          "espesor": 16
+        },
+        {
+          "uid": "T7-1",
+          "largo": 346,
+          "ancho": 314,
+          "espesor": 16
+        }
+      ]
+    }
+  ]
+}
