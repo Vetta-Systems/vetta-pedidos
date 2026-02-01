@@ -1,0 +1,249 @@
+{
+  "id_pedido": "pedido_1769971405023",
+  "fecha": "2026-02-01T19:25:16.085Z",
+  "muebles": [
+    {
+      "id_interno": "A",
+      "peso_total": 16.538991120000002,
+      "dimensiones_caja": [
+        825,
+        473,
+        101
+      ],
+      "piezas": [
+        {
+          "uid": "A1-1",
+          "nombre": "Lateral_Izq",
+          "largo": 468,
+          "ancho": 450,
+          "espesor": 16
+        },
+        {
+          "uid": "A2-1",
+          "nombre": "Lateral_Der",
+          "largo": 468,
+          "ancho": 450,
+          "espesor": 16
+        },
+        {
+          "uid": "A3-1",
+          "nombre": "Techo",
+          "largo": 820,
+          "ancho": 450,
+          "espesor": 16
+        },
+        {
+          "uid": "A4-1",
+          "nombre": "Suelo",
+          "largo": 820,
+          "ancho": 450,
+          "espesor": 16
+        },
+        {
+          "uid": "A5-1",
+          "nombre": "Trasera",
+          "largo": 788,
+          "ancho": 468,
+          "espesor": 16
+        },
+        {
+          "uid": "A6-1",
+          "nombre": "Zócalo_Frente",
+          "largo": 810,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "A7-1",
+          "nombre": "Zócalo_Tras",
+          "largo": 810,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "A8-1",
+          "nombre": "Zócalo_Lat_Izq",
+          "largo": 408,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "A9-1",
+          "nombre": "Zócalo_Lat_Der",
+          "largo": 408,
+          "ancho": 30,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "B",
+      "peso_total": 20.43100456,
+      "dimensiones_caja": [
+        825,
+        473,
+        117
+      ],
+      "piezas": [
+        {
+          "uid": "B1-1",
+          "nombre": "Lateral_Izq",
+          "largo": 468,
+          "ancho": 450,
+          "espesor": 16
+        },
+        {
+          "uid": "B2-1",
+          "nombre": "Lateral_Der",
+          "largo": 468,
+          "ancho": 450,
+          "espesor": 16
+        },
+        {
+          "uid": "B3-1",
+          "nombre": "Techo",
+          "largo": 820,
+          "ancho": 450,
+          "espesor": 16
+        },
+        {
+          "uid": "B4-1",
+          "nombre": "Suelo",
+          "largo": 820,
+          "ancho": 450,
+          "espesor": 16
+        },
+        {
+          "uid": "B5-1",
+          "nombre": "Trasera",
+          "largo": 788,
+          "ancho": 468,
+          "espesor": 16
+        },
+        {
+          "uid": "B6-1",
+          "nombre": "Zócalo_Frente",
+          "largo": 810,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "B7-1",
+          "nombre": "Zócalo_Tras",
+          "largo": 810,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "B8-1",
+          "nombre": "Zócalo_Lat_Izq",
+          "largo": 408,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "B9-1",
+          "nombre": "Zócalo_Lat_Der",
+          "largo": 408,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "B10-1",
+          "nombre": "Puerta_Izq",
+          "largo": 464,
+          "ancho": 406,
+          "espesor": 16
+        },
+        {
+          "uid": "B11-1",
+          "nombre": "Puerta_Der",
+          "largo": 464,
+          "ancho": 406,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "C",
+      "peso_total": 20.039208320000004,
+      "dimensiones_caja": [
+        825,
+        473,
+        117
+      ],
+      "piezas": [
+        {
+          "uid": "C1-1",
+          "nombre": "Lateral_Izq",
+          "largo": 468,
+          "ancho": 450,
+          "espesor": 16
+        },
+        {
+          "uid": "C2-1",
+          "nombre": "Lateral_Der",
+          "largo": 468,
+          "ancho": 450,
+          "espesor": 16
+        },
+        {
+          "uid": "C3-1",
+          "nombre": "Techo",
+          "largo": 820,
+          "ancho": 450,
+          "espesor": 16
+        },
+        {
+          "uid": "C4-1",
+          "nombre": "Suelo",
+          "largo": 820,
+          "ancho": 450,
+          "espesor": 16
+        },
+        {
+          "uid": "C5-1",
+          "nombre": "Trasera",
+          "largo": 788,
+          "ancho": 468,
+          "espesor": 16
+        },
+        {
+          "uid": "C6-1",
+          "nombre": "Zócalo_Frente",
+          "largo": 810,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "C7-1",
+          "nombre": "Zócalo_Tras",
+          "largo": 810,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "C8-1",
+          "nombre": "Zócalo_Lat_Izq",
+          "largo": 408,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "C9-1",
+          "nombre": "Zócalo_Lat_Der",
+          "largo": 408,
+          "ancho": 30,
+          "espesor": 16
+        },
+        {
+          "uid": "C10-1",
+          "nombre": "Leja",
+          "largo": 788,
+          "ancho": 430,
+          "espesor": 16
+        }
+      ]
+    }
+  ]
+}
