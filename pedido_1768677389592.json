@@ -1,0 +1,106 @@
+{
+  "id_pedido": "pedido_1768677389592",
+  "fecha": "2026-02-01T12:28:08.055Z",
+  "muebles": [
+    {
+      "id_interno": "A",
+      "peso_total": 7.565526719999999,
+      "dimensiones_caja": [
+        405,
+        405,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "A1-1",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "A2-1",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "A3-1",
+          "largo": 400,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "A4-1",
+          "largo": 368,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "A5-1",
+          "largo": 396,
+          "ancho": 180,
+          "espesor": 16
+        },
+        {
+          "uid": "A6-1",
+          "largo": 396,
+          "ancho": 180,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "B",
+      "peso_total": 10.42652352,
+      "dimensiones_caja": [
+        405,
+        405,
+        117
+      ],
+      "piezas": [
+        {
+          "uid": "B1-1",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "B2-1",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "B3-1",
+          "largo": 400,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "B4-1",
+          "largo": 368,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "B5-1",
+          "largo": 380,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "B6-1",
+          "largo": 380,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "B7-1",
+          "largo": 380,
+          "ancho": 368,
+          "espesor": 16
+        }
+      ]
+    }
+  ]
+}
