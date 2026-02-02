@@ -1,0 +1,66 @@
+{
+  "id_pedido": "pedido_1770052964645",
+  "fecha": "2026-02-02T17:24:42.100Z",
+  "muebles": [
+    {
+      "id_interno": "A",
+      "peso_total": 21.88009696,
+      "dimensiones_caja": [
+        1205,
+        405,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "A1-1",
+          "nombre": "Lateral_Izq",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "A2-1",
+          "nombre": "Lateral_Der",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "A3-1",
+          "nombre": "Techo",
+          "largo": 1200,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "A4-1",
+          "nombre": "Suelo",
+          "largo": 1200,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "A5-1",
+          "nombre": "Trasera",
+          "largo": 1168,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "A6-1",
+          "nombre": "Puerta_Izq",
+          "largo": 596,
+          "ancho": 364,
+          "espesor": 16
+        },
+        {
+          "uid": "A7-1",
+          "nombre": "Puerta_Der",
+          "largo": 596,
+          "ancho": 364,
+          "espesor": 16
+        }
+      ]
+    }
+  ]
+}
