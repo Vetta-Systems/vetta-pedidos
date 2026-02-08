@@ -1,0 +1,313 @@
+{
+  "id_pedido": "pedido_1770575907858",
+  "fecha": "2026-02-08T18:48:16.784Z",
+  "muebles": [
+    {
+      "id_interno": "A",
+      "peso_total": 12.38476096,
+      "dimensiones_caja": [
+        605,
+        405,
+        117
+      ],
+      "piezas": [
+        {
+          "uid": "A1-1",
+          "nombre": "Lateral_Izq",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "A2-1",
+          "nombre": "Lateral_Der",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "A3-1",
+          "nombre": "Techo",
+          "largo": 600,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "A4-1",
+          "nombre": "Suelo",
+          "largo": 600,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "A5-1",
+          "nombre": "Trasera",
+          "largo": 568,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "A6-1",
+          "nombre": "Puerta_Izq",
+          "largo": 364,
+          "ancho": 296,
+          "espesor": 16
+        },
+        {
+          "uid": "A7-1",
+          "nombre": "Puerta_Der",
+          "largo": 364,
+          "ancho": 296,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "B",
+      "peso_total": 12.32592128,
+      "dimensiones_caja": [
+        605,
+        405,
+        101
+      ],
+      "piezas": [
+        {
+          "uid": "B1-1",
+          "nombre": "Lateral_Izq",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "B2-1",
+          "nombre": "Lateral_Der",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "B3-1",
+          "nombre": "Techo",
+          "largo": 600,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "B4-1",
+          "nombre": "Suelo",
+          "largo": 600,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "B5-1",
+          "nombre": "Trasera",
+          "largo": 568,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "B6-1",
+          "nombre": "Frente_Cajón",
+          "largo": 596,
+          "ancho": 88,
+          "espesor": 16
+        },
+        {
+          "uid": "B7-1",
+          "nombre": "Frente_Cajón",
+          "largo": 596,
+          "ancho": 88,
+          "espesor": 16
+        },
+        {
+          "uid": "B8-1",
+          "nombre": "Frente_Cajón",
+          "largo": 596,
+          "ancho": 88,
+          "espesor": 16
+        },
+        {
+          "uid": "B9-1",
+          "nombre": "Frente_Cajón",
+          "largo": 596,
+          "ancho": 88,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "C",
+      "peso_total": 9.69515952,
+      "dimensiones_caja": [
+        405,
+        373,
+        133
+      ],
+      "piezas": [
+        {
+          "uid": "C1-1",
+          "nombre": "Lateral_Izq",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "C2-1",
+          "nombre": "Lateral_Der",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "C3-1",
+          "nombre": "Techo",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "C4-1",
+          "nombre": "Suelo",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "C5-1",
+          "nombre": "Trasera",
+          "largo": 368,
+          "ancho": 268,
+          "espesor": 16
+        },
+        {
+          "uid": "C6-1",
+          "nombre": "Leja",
+          "largo": 380,
+          "ancho": 268,
+          "espesor": 16
+        },
+        {
+          "uid": "C7-1",
+          "nombre": "Leja",
+          "largo": 380,
+          "ancho": 268,
+          "espesor": 16
+        },
+        {
+          "uid": "C8-1",
+          "nombre": "Leja",
+          "largo": 380,
+          "ancho": 268,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "D",
+      "peso_total": 4.83410944,
+      "dimensiones_caja": [
+        405,
+        305,
+        101
+      ],
+      "piezas": [
+        {
+          "uid": "D1-1",
+          "nombre": "Lateral_Izq",
+          "largo": 400,
+          "ancho": 168,
+          "espesor": 16
+        },
+        {
+          "uid": "D2-1",
+          "nombre": "Lateral_Der",
+          "largo": 400,
+          "ancho": 168,
+          "espesor": 16
+        },
+        {
+          "uid": "D3-1",
+          "nombre": "Techo",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "D4-1",
+          "nombre": "Suelo",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "D5-1",
+          "nombre": "Trasera",
+          "largo": 268,
+          "ancho": 168,
+          "espesor": 16
+        },
+        {
+          "uid": "D6-1",
+          "nombre": "Puerta",
+          "largo": 296,
+          "ancho": 164,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "E",
+      "peso_total": 4.83410944,
+      "dimensiones_caja": [
+        405,
+        305,
+        101
+      ],
+      "piezas": [
+        {
+          "uid": "E1-1",
+          "nombre": "Lateral_Izq",
+          "largo": 400,
+          "ancho": 168,
+          "espesor": 16
+        },
+        {
+          "uid": "E2-1",
+          "nombre": "Lateral_Der",
+          "largo": 400,
+          "ancho": 168,
+          "espesor": 16
+        },
+        {
+          "uid": "E3-1",
+          "nombre": "Techo",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "E4-1",
+          "nombre": "Suelo",
+          "largo": 400,
+          "ancho": 300,
+          "espesor": 16
+        },
+        {
+          "uid": "E5-1",
+          "nombre": "Trasera",
+          "largo": 268,
+          "ancho": 168,
+          "espesor": 16
+        },
+        {
+          "uid": "E6-1",
+          "nombre": "Puerta",
+          "largo": 296,
+          "ancho": 164,
+          "espesor": 16
+        }
+      ]
+    }
+  ]
+}
