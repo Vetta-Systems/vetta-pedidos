@@ -1,0 +1,98 @@
+{
+  "id_pedido": "pedido_1774873996400",
+  "fecha": "2026-03-30T12:37:33.882Z",
+  "muebles": [
+    {
+      "id_interno": "A",
+      "peso_total": 10.967154400000002,
+      "dimensiones_caja": [
+        672,
+        405,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "A1-1",
+          "nombre": "Lateral_Izq",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "A2-1",
+          "nombre": "Lateral_Der",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "A3-1",
+          "nombre": "Techo",
+          "largo": 667,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "A4-1",
+          "nombre": "Suelo",
+          "largo": 667,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "A5-1",
+          "nombre": "Trasera",
+          "largo": 635,
+          "ancho": 368,
+          "espesor": 16
+        }
+      ]
+    },
+    {
+      "id_interno": "B",
+      "peso_total": 7.74568192,
+      "dimensiones_caja": [
+        405,
+        405,
+        85
+      ],
+      "piezas": [
+        {
+          "uid": "B1-1",
+          "nombre": "Lateral_Izq",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "B2-1",
+          "nombre": "Lateral_Der",
+          "largo": 400,
+          "ancho": 368,
+          "espesor": 16
+        },
+        {
+          "uid": "B3-1",
+          "nombre": "Techo",
+          "largo": 400,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "B4-1",
+          "nombre": "Suelo",
+          "largo": 400,
+          "ancho": 400,
+          "espesor": 16
+        },
+        {
+          "uid": "B5-1",
+          "nombre": "Trasera",
+          "largo": 368,
+          "ancho": 368,
+          "espesor": 16
+        }
+      ]
+    }
+  ]
+}
